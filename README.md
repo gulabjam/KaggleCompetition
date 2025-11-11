@@ -8,6 +8,6 @@
  
  Total Score -> harmonic mean of both
 
-## StacK used
+## Stack used
 
 Pytorch
