@@ -79,13 +79,4 @@ Tips and notes
 - Use mixed precision (AMP) and a good scheduler to speed training and stabilize results.
 - Monitor both gender F1 and age RMSE during training; tune augmentations and loss weighting accordingly.
 
-License & contact
 
-This repo is provided for experimentation. Add an explicit license file if you plan to release publicly. For questions, open an issue in the repository.
-
-If you'd like, I can:
-- Add a `requirements.txt` or `environment.yml` with tested package versions.
-- Extract the notebook's training/inference code into standalone scripts (`train.py`, `inference.py`).
-
-----
-_README updated to include usage, dataset layout, evaluation metrics, and quick start steps._
