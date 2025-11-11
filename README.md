@@ -6,5 +6,8 @@
  
  Age Score metric ->   1 - min(rmse(age), 30)/30
  
- Total Score - harmonic mean of both
+ Total Score -> harmonic mean of both
 
+## StacK used
+
+Pytorch
